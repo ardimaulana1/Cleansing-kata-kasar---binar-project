@@ -1,6 +1,6 @@
 # binar-cleansing-kata-kasar
-API untuk membersihkan kata-kata kasar &amp; memperbaiki kata-kata alay menggunakan bahasa pemrograman Python dengan library Pandas &amp; RegEx. Selanjutnya disimpan di database SQLite
+API to clean rude words & fix alay words using Python programming language with Pandas & RegEx libraries. Then stored in SQLite database.
 
-Kata-kata kasar akan diganti dengan string "***". Dan kata-kata alay diperbaiki berdasarkan kamus alay
+The rude words will be replaced with the string "***". And the alay words will be corrected based on the alay dictionary.
 
-File "data.csv" adalah file yang berisikan kumpulan tweet yang nantinya akan diunggah, diproses, dan disimpan di database
+The "data.csv" file is a file that contains a collection of tweets that will be uploaded, processed, and stored in the database.
